@@ -1,0 +1,147 @@
+.header{
+    background-image: url("../Images/one-page/header-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+}
+.banner{
+    padding:200px 10% 300px 60%;
+}
+.about{
+    text-align: center;
+    padding: 100px 30% 100px 30%;
+}
+.load{
+    width: 100%;
+    text-align: center;
+    padding: 2% 30% 2% 30%;
+    background-color: #f5f5f5;
+}
+.skill-label{
+margin: 20px 0 10px 0;
+}
+.work-process{
+    text-align: center;
+    padding-bottom: 8%;
+}
+.title{
+    padding: 5% 30% 5% 30%;
+}
+.skills{
+    padding: 10% 50% 10% 10%;
+    background-color: #f5f5f5;
+    background-image: url("../Images/one-page/about-us.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right top;
+    width: 100%;
+}
+[class~="footer-numbers"]{
+    padding: 100px 0 100px 0;
+    display: flex;
+    justify-content: space-around;
+}
+[class~="color-lightgrey"]{
+    background-color: #dddddd;
+    padding: 6%;
+}
+[class~="color-grey"]{
+    background-color: #838383;
+    padding: 10% 10% 10% 10%;
+}
+[class~="services-item"]{
+    text-align: center;
+    padding: 0 4% 0 4%;
+    margin-bottom: 5%;
+}
+[class~="services"]{
+    background-color: #dddddd;
+    padding:5% 5% 0 5% ;
+}
+.about-image{
+    width: 100%;
+    height: auto;
+}
+p{
+    color: #787878;
+}
+[class~="numbers"]{
+    color: white!important;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+.testimonials{
+    text-align: center;
+    padding: 8% 25% 3% 25%;
+    color: white;
+    background-color: #10c9c3;
+    height: 400px;
+}
+.nav-pills .nav-link.active {
+    background-color: white !important;
+    padding: 1px;
+    height: auto;
+}
+.nav-link{
+    color: white;
+}
+.clients{
+    padding: 7% 25% 10% 25%;
+}
+#comment{
+    padding: 3% 0 20% 3%;
+}
+.footer-content{
+    color: #bcbcbc;
+}
+[class~=footer-contact]{
+    line-height: 0.5;
+}
+[class~=footer]{
+    padding: 4% 7% 6% 7% ;
+}
+.page-about-title{
+    text-align: center;
+    padding: 100px 30% 100px 30%;
+    color: white!important;
+    background-image: url("../Images/about/banner.jpg");
+}
+.page-about-content{
+    background-color: #f5f5f5;
+    background-image: url("../Images/about/About.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: auto;
+    padding: 10% 10% 10% 60%;
+}
+.page-about-content-contact{
+    padding: 5% 25% 8% 25%;
+    text-align: center;
+}
+.page-project{
+    background-color: #f5f5f5;
+    background-image: url("../Images/project-single/breakfast.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right top;
+    width: 100%;
+    height: auto;
+    padding: 10% 60% 10% 10%;
+}
+[class~="link-project"]{
+    text-decoration: none;
+}
+.contact{
+    background-color: #f5f5f5;
+    padding: 6%;
+}
+.contact-info{
+    padding-right: 10%;
+}
+[class~="active-true"]{
+    color: #10c9c3!important;
+}
